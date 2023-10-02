@@ -4,8 +4,6 @@
 
 **Date:** [02/10/2023]
 
-![Project Logo/Icon (if applicable)](icon.png) *(Add a logo or icon if you have one)*
-
 ## Overview
 
 This Jupyter Notebook presents a machine learning project for Credit Card Fraud Detection. The goal of this project is to develop a robust and accurate classifier to identify fraudulent credit card transactions from a dataset containing credit card transaction records.
